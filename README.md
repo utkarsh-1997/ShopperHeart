@@ -1,6 +1,6 @@
 # MERN ShopperHeart
 
-# Lessons
+# Steps used by me:
 
 1. Introduction
 2. Install Tools

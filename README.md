@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# MERN ShopperHeart
 
 # Lessons
 
